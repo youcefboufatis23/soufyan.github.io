@@ -1,6 +1,6 @@
 let myText1= 'Hi,';
-let myText2= "I'm Soufyan Boufatis,";
-let myText3= 'Web Developer.';
+let myText2= "I'm Oussama Adjimi,";
+let myText3= 'Fotographer.';
  
 
 
